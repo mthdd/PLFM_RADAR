@@ -1,0 +1,32 @@
+Board,Marking,Description,Quantity
+FreqSynth,AD9523BCPZ,PLL Clock Driver,1
+FreqSynth,ADF4382ABCCZ,Synthesizer,2
+FreqSynth,MTX2-143+,Mixer,4
+FreqSynth,CVHD-950-50.000,Crystal 50MHz,2
+FreqSynth,ECOC-2522-100.000-3HC,Crystal 100MHz,1
+FreqSynth,ATS1005-3DB-FD-T05,Precision Resistor,4
+FreqSynth,FBMH1608HL601-T,Ferrite Bead,4
+FreqSynth,142-0731-211,SMA Connector,11
+MainBoard,XC7A50T-2FTG256I,FPGA Artix-7,1
+MainBoard,STM32F746ZGT7,MCU STM32,1
+MainBoard,AD9484BCPZ-500,ADC 500MSPS,1
+MainBoard,AD9708AR,DAC,1
+MainBoard,ADAR1000ACCZN,RF Switch/Attenuator,4
+MainBoard,ADTR1107ACCZ,RF Switch,16
+MainBoard,FT2232HQ,USB-to-UART/FIFO,1
+MainBoard,DAC5578SRGET,Octal DAC,2
+MainBoard,INA241A3IDGKR,Current Sense Amp,16
+MainBoard,LTC5552IUDB#TRMPBF,Mixer,2
+MainBoard,M3SWA2-34DR+,RF Switch,17
+MainBoard,ADS7830IPWR,ADC 8-ch,3
+MainBoard,OPA4703EA/250,Quad Op-Amp,4
+MainBoard,AT93C46DN-SH-B,EEPROM,1
+MainBoard,MT25QL01GBBB8E12-0AUT,Flash Memory,1
+MainBoard,SZMMSZ5232BT1G,Zener Diode,34
+MainBoard,142-0731-211,SMA Connector,37
+PowerBoard,TPS562208DDCT,Step-down Converter,21
+PowerBoard,ADM7151ACPZ-04-R7,LDO Regulator,6
+PowerBoard,LM2662MX/NOPB,Voltage Regulator,5
+PowerBoard,TPS7A8300RGRR,Ultra-low noise LDO,2
+PowerBoard,T521W476M020ATE045,Polymer Tantalum Cap,10
+PowerBoard,22-23-2021,Header 2-pin,35
